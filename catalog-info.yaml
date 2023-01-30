@@ -12,6 +12,7 @@ metadata:
     - oidc
   annotations:
     "backstage.io/kubernetes-label-selector": "app.kubernetes.io/part-of=server-side-ui-starter"
+    backstage.io/techdocs-ref: README.md
   links:
     - url: https://server-side-ui-starter.developer-namespace.tap.failk8s.com/
       title: Webpage
